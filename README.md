@@ -98,11 +98,10 @@ The testing results demonstrate that the system handles valid, failed, and inval
 
 ## Project Files
 
-- `1CTPS_Grading_System.c` – Complete C source code.
-- `1_CTPS_Lab Project Report.pdf` – Project documentation and report.
-
+- [student-grading-system.c](./student-grading-system.c) – Complete C source code.
+- [student-grading-system_Report.pdf](./student-grading-system_Report.pdf) – Project documentation and report.
 ## Author
 
-**Developed by:** Ihkabbo
+**Developed by:** Md. Imran Hossen
 
 Academic project focused on C programming, arrays, functions, conditional statements, loops, and input validation.
